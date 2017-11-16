@@ -2,6 +2,7 @@ package com.bawei.pay;
 
 public final class Base64 {
 
+	//11
 	private static final int BASELENGTH = 128;
 	private static final int LOOKUPLENGTH = 64;
 	private static final int TWENTYFOURBITGROUP = 24;
